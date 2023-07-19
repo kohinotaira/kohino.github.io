@@ -24,7 +24,7 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: #
+    twitter: kohino_spry2021
     github:  https://github.com/kohinotaira
     linkedIn: #
     #dribbble: jekyll
